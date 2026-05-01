@@ -49,3 +49,52 @@ O objetivo é praticar estruturas de decisão, repetição e funções.
 2. Clone este repositório:
    ```bash
    git clone https://github.com/JardeleLima/exercicios-javascript.git
+# Exercícios de JavaScript
+
+Este repositório contém uma coleção de exercícios básicos de **JavaScript**, organizados em arquivos separados.  
+O objetivo é praticar estruturas de decisão, repetição e funções.
+
+---
+
+## 📌 Exercício 1 - Estrutura de decisão
+- Dado o valor da compra e o método de pagamento, calcular o valor do frete.
+
+📄 Arquivo: `exercicio1.js`
+
+### ▶️ Exemplo de saída
+
+---
+
+## 📌 Exercício 2 - Estrutura de repetição
+- Percorrer uma lista de nomes: Eduardo, Maria, Fernando, João e Francisco.
+
+📄 Arquivo: `exercicio2.js`
+
+### ▶️ Exemplo de saída
+
+---
+
+## 📌 Exercício 3 - Estrutura de repetição + decisão
+- Percorrer uma lista de cidades e parar quando encontrar **Salvador**.
+
+📄 Arquivo: `exercicio3.js`
+
+### ▶️ Exemplo de saída
+
+---
+
+## 📌 Exercício 4 - Funções
+- Criar uma função que recebe dois números por parâmetro e retorna a soma.
+
+📄 Arquivo: `exercicio4.js`
+
+### ▶️ Exemplo de saída
+
+---
+
+## 🚀 Como executar
+1. Certifique-se de ter o **Node.js** instalado.
+2. Clone este repositório:
+   ```bash
+   git clone https://github.com/JardeleLima/exercicios-javascript.git
+
